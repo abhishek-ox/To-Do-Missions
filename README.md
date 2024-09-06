@@ -1,7 +1,7 @@
 📝 To-Do List App
 ## 🎨 Screenshots
 
-![Home Screen](./screenshots/home-screen.png)
+![Home Screen](public/To-Do-List.png)
 
 Overview
 The To-Do List App is a full-featured task management application designed to help users organize and track their daily tasks efficiently. With a clean UI, intuitive features, and real-time task management, this app makes staying productive easier than ever.
